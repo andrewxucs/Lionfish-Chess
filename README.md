@@ -1,9 +1,9 @@
-<img width="293" alt="Lionfish graphic" src="https://github.com/user-attachments/assets/736a587d-8ec6-47f6-92c8-6b89bd5e72a6">
+<img width="293" length="800" alt="Lionfish graphic" src="https://github.com/user-attachments/assets/736a587d-8ec6-47f6-92c8-6b89bd5e72a6">
 
 
 # Introduction
 Lionfish is a simple chess engine programmed in python that is stronger than the vast majority of human players\
-The central algorithm of Lionfish is MTD-bi search: https://www.chessprogramming.org/MTD(f)\
+The central algorithm of Lionfish is MTD-bi search\
 The name of this engine is inspired by Stockfish, the strongest open-source engine in the world.
 
 # User Interface
